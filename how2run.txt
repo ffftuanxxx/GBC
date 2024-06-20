@@ -1,0 +1,1 @@
+run.bat <origin_data_path> <video name> <fps> <location of to train data> <path to the trained model>
