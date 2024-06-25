@@ -21,7 +21,7 @@ Now, you can use the **how2run.txt**'s command to run the **run.bat** to process
 [gaussian-splatting-Windows](https://github.com/jonstephens85/gaussian-splatting-Windows)  
 [DeOldify](https://github.com/jantic/DeOldify)  
 ## Datasets  
-## others    
+## Others    
 <img src="https://github.com/HungryNeko/GBC-Gaussian-splatting-Based-Colorization/assets/160721586/abef1969-de6f-4b85-a9db-30a44ae0a872" width="100px">  
 
 
