@@ -5,7 +5,7 @@ Our project, GBC, takes monochrome video input and generates a vibrant, colored 
 <img src="https://github.com/HungryNeko/GBC-Gaussian-splatting-Based-Colorization/assets/160721586/f0424a2f-11a4-4c60-a069-5439c8e45f72" width="300px">  
 
 ## DEMO
-current demo can view at [GBC](elucidator.cn/gbc-demo/)  
+current demo can view at [GBC](http://elucidator.cn/gbc-demo/)  
 
 ### STEPS：  
 before use, please clone the repository 3D Gaussian Splatting:
