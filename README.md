@@ -10,6 +10,8 @@ current demo can view at [GBC](http://elucidator.cn/gbc-demo/)
 ### STEPS：  
 Install all requirements of Gaussian-Splatting-Windows, DeOldify, Real-ESRGAN in the same environment.
 Download all weight files in of Gaussian-Splatting-Windows, DeOldify, Real-ESRGAN.
+You can use 480p.py to convert video to monochrome, low resolution video.
+Run main.py to start whole process.
 
 ## Links  
 [gaussian-splatting-Windows](https://github.com/jonstephens85/gaussian-splatting-Windows)  
