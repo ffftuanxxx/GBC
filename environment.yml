@@ -1,0 +1,12 @@
+name: gbc
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - plyfile=0.8.1
+  - pip=22.3.1
+  - tqdm
+  - pip:
+    - ./submodules/diff-gaussian-rasterization  
+    - ./submodules/simple-knn       
