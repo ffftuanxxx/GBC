@@ -21,8 +21,8 @@ Run main.py to start whole process.
 ## Datasets
 
 ## Others    
-<img src="https://github.com/HungryNeko/GBC-Gaussian-splatting-Based-Colorization/assets/160721586/abef1969-de6f-4b85-a9db-30a44ae0a872" width="100px">  
+<!--<img src="https://github.com/HungryNeko/GBC-Gaussian-splatting-Based-Colorization/assets/160721586/abef1969-de6f-4b85-a9db-30a44ae0a872" width="100px">  -->
 
-If any problem, pls contact [@ffftuan](https://github.com/ffftuanxxx).
+If any problem, pls contact [HungryNeko](https://github.com/HungryNeko).
 
-Equal contribution for [HungryNeko](https://github.com/HungryNeko) and [@ffftuan](https://github.com/ffftuanxxx).
+Equal contribution for  and [@ffftuan](https://github.com/ffftuanxxx).
