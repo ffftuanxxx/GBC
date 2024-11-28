@@ -25,4 +25,4 @@ Run main.py to start whole process.
 
 If any problem, pls contact [HungryNeko](https://github.com/HungryNeko).
 
-Equal contribution for  and [@ffftuan](https://github.com/ffftuanxxx).
+Equal contribution for [HungryNeko](https://github.com/HungryNeko) and [@ffftuan](https://github.com/ffftuanxxx).
