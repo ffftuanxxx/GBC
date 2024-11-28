@@ -2,7 +2,7 @@
 ## Overview  
 Our project, GBC, takes monochrome video input and generates a vibrant, colored 3D scene using advanced Gaussian-splatting techniques.  
 ## pipline  
-![QQ_1731740337964](main_web.jpg)
+![main figure](main_web.jpg)
 
 ## DEMO
 current demo can view at [GBC](http://elucidator.cn/gbc-demo/)  
