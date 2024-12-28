@@ -1,6 +1,6 @@
 # GBC: Gaussian-splatting Based Colorization  
 ## Overview  
-Our project, GBC, takes monochrome video input and generates a vibrant, colored 3D scene using advanced Gaussian-splatting techniques.  
+Our project, GBC, takes low quality monochrome video input and generates a high resoluted, colored 3D scene using advanced techniques.  
 ## pipeline  
 ![main figure](main_web.jpg)
 
