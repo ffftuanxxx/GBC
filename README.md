@@ -4,6 +4,8 @@ Our project, GBC, takes low quality monochrome video input and generates a high 
 ## pipeline  
 ![main figure](main_web.jpg)
 
+![image](https://github.com/user-attachments/assets/72d75a2f-0fa1-431f-a1d2-5e24b9ed7564)
+
 ## DEMO
 current demo can view at [GBC](http://elucidator.cn/gbc-demo/)  
 
