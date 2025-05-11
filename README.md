@@ -28,12 +28,16 @@ current demo can view at [GBC](http://elucidator.cn/gbc-demo/)
 git clone https://github.com/index-tts/index-tts.git
 ```
 2. Install dependencies:
+- 2.1
 ```bash
 conda create -n gbc python=3.10.15
 conda activate gbc
 pip install -r requirements.txt
 cd ./the file position
 ```
+- 2.2
+  Also install 3dgs, please reference to [gaussian-splatting-Windows](https://github.com/jonstephens85/gaussian-splatting-Windows)
+  
 3. Download models:
 - Download by `Modelscope`:
 Install:
@@ -45,7 +49,7 @@ method1: Download by SDK:
 from modelscope import snapshot_download
 model_dir = snapshot_download('XRailgunX/Gaussian-Based-Colorization-and-Super-Resolution-for-3D-Reconstruction')
 ```
-method 2: Download by git:
+method 2: Download by GIT:
 ```bash
 git clone https://www.modelscope.cn/XRailgunX/Gaussian-Based-Colorization-and-Super-Resolution-for-3D-Reconstruction.git
 ```
