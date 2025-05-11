@@ -1,4 +1,4 @@
-# GBC: Gaussian-splatting Based Colorization  
+# GBC: Gaussian-Based-Colorization-and-Super-Resolution-for-3D-Reconstruction
 ## Overview  
 Our project, GBC, takes low quality monochrome video input and generates a high resoluted, colored 3D scene using advanced techniques.  
 ## pipeline  
