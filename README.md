@@ -45,7 +45,7 @@
 ### Environment Setup
 1. Download this repository:
 ```bash
-git clone https://github.com/index-tts/index-tts.git
+git clone https://github.com/ffftuanxxx/GBC.git
 ```
 2. Install dependencies:
 - 2.1
@@ -86,13 +86,14 @@ Run main.py to start whole process.-->
 
 ## Datasets
 - Part of datasets are available at `modelscope`
-Method 1. SDK
+
+`Method 1.` SDK
 ```bash
 from modelscope.msdatasets import MsDataset
 ds =  MsDataset.load('XRailgunX/GBC-dataset')
 ```
 
-Method 2. 
+`Method 2.` GIT
 ```bash
 git lfs install
 git clone https://www.modelscope.cn/datasets/XRailgunX/GBC-dataset.git
