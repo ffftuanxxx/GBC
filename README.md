@@ -102,8 +102,8 @@ git clone https://www.modelscope.cn/datasets/XRailgunX/GBC-dataset.git
 ## Links  
 Thanks for the work of,
 
-[gaussian-splatting-Windows](https://github.com/jonstephens85/gaussian-splatting-Windows)  \\
-[DeOldify](https://github.com/jantic/DeOldify)
+[3D-gaussian-splatting](https://github.com/jonstephens85/gaussian-splatting-Windows)  
+[DeOldify](https://github.com/jantic/DeOldify)  
 [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
 
 ## Cite
