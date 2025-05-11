@@ -21,8 +21,19 @@ Our project, GBC, takes low quality monochrome video input and generates a high 
 ## DEMO
 current demo can view at [GBC](http://elucidator.cn/gbc-demo/)  
 
-### STEPS：  
-Detail steps of installation for GBC is coming soon!
+### USAGE INSTRUCTIONS  
+### Environment Setup
+1. Download this repository:
+```bash
+git clone https://github.com/index-tts/index-tts.git
+```
+2. Install dependencies:
+```bash
+conda create -n index-tts python=3.10
+conda activate index-tts
+pip install -r requirements.txt
+apt-get install ffmpeg
+```
 <!--Install all requirements of Gaussian-Splatting-Windows, DeOldify, Real-ESRGAN in the same environment.
 Download all weight files in of Gaussian-Splatting-Windows, DeOldify, Real-ESRGAN.
 You can use 480p.py to convert video to monochrome, low resolution video.
