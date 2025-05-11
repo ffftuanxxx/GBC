@@ -1,6 +1,6 @@
 # GBC: Gaussian-Based-Colorization-and-Super-Resolution-for-3D-Reconstruction
 ## Overview  
-Our project, GBC, takes low quality monochrome video input and generates a high resoluted, colored 3D scene using advanced techniques.  
+- Our project, GBC, takes low quality monochrome video as input and generates a high resoluted, colored 3D scene using following advanced techniques.  
 ## pipeline  
 ![main figure](main_web.jpg)
 
@@ -39,7 +39,7 @@ Our project, GBC, takes low quality monochrome video input and generates a high 
 
 
 ## DEMO
-current demo can view at [GBC](http://elucidator.cn/gbc-demo/)  
+- Current demo is availabled at [GBC](http://elucidator.cn/gbc-demo/)  
 
 ## USAGE INSTRUCTIONS  
 ### Environment Setup
