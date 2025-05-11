@@ -29,11 +29,20 @@ git clone https://github.com/index-tts/index-tts.git
 ```
 2. Install dependencies:
 ```bash
-conda create -n index-tts python=3.10
-conda activate index-tts
+conda create -n gbc python=3.10.15
+conda activate gbc
 pip install -r requirements.txt
-apt-get install ffmpeg
+cd ./the file position
 ```
+3. Download models:
+Download by `Modelscope`:
+
+4.
+```bash
+# Please make sure you have put the model files on the right position and set the correct parameters'
+PYTHONPATH=. python main.py
+```
+
 <!--Install all requirements of Gaussian-Splatting-Windows, DeOldify, Real-ESRGAN in the same environment.
 Download all weight files in of Gaussian-Splatting-Windows, DeOldify, Real-ESRGAN.
 You can use 480p.py to convert video to monochrome, low resolution video.
