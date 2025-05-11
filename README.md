@@ -44,12 +44,12 @@ Install:
 ```bash
 pip install modelscope
 ```
-method1: Download by SDK:
+`method 1`: Download by SDK:
 ```bash
 from modelscope import snapshot_download
 model_dir = snapshot_download('XRailgunX/Gaussian-Based-Colorization-and-Super-Resolution-for-3D-Reconstruction')
 ```
-method 2: Download by GIT:
+`method 2`: Download by GIT:
 ```bash
 git clone https://www.modelscope.cn/XRailgunX/Gaussian-Based-Colorization-and-Super-Resolution-for-3D-Reconstruction.git
 ```
@@ -65,6 +65,18 @@ You can use 480p.py to convert video to monochrome, low resolution video.
 Run main.py to start whole process.-->
 
 ## Datasets
+- Part of datasets are available at `modelscope`
+Method 1. SDK
+```bash
+from modelscope.msdatasets import MsDataset
+ds =  MsDataset.load('XRailgunX/GBC-dataset')
+```
+
+Method 2. 
+```bash
+git lfs install
+git clone https://www.modelscope.cn/datasets/XRailgunX/GBC-dataset.git
+```
 
 ## Links  
 Thanks for the work of,
