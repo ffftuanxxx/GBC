@@ -13,10 +13,20 @@ Our project, GBC, takes low quality monochrome video input and generates a high 
 ## 3dgs WORKFLOW
 ![image](https://github.com/user-attachments/assets/a1b9ef1e-7281-42f6-9b74-4bceb5ea6174)-->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/72d75a2f-0fa1-431f-a1d2-5e24b9ed7564" alt="BOF-SR" width="30%" />
-  <img src="https://github.com/user-attachments/assets/ef0ff679-0f83-4d61-808f-a36aba031d08" alt="COLMAP Workflow" width="30%" />
-  <img src="https://github.com/user-attachments/assets/a1b9ef1e-7281-42f6-9b74-4bceb5ea6174" alt="3DGS Workflow" width="30%" />
+  <figure style="display:inline-block; margin: 10px; text-align: center;">
+    <img src="https://github.com/user-attachments/assets/72d75a2f-0fa1-431f-a1d2-5e24b9ed7564" alt="BOF-SR" width="90%">
+    <figcaption><strong>BOF-SR</strong></figcaption>
+  </figure>
+  <figure style="display:inline-block; margin: 10px; text-align: center;">
+    <img src="https://github.com/user-attachments/assets/ef0ff679-0f83-4d61-808f-a36aba031d08" alt="COLMAP Workflow" width="90%">
+    <figcaption><strong>COLMAP Workflow</strong></figcaption>
+  </figure>
+  <figure style="display:inline-block; margin: 10px; text-align: center;">
+    <img src="https://github.com/user-attachments/assets/a1b9ef1e-7281-42f6-9b74-4bceb5ea6174" alt="3DGS Workflow" width="90%">
+    <figcaption><strong>3DGS Workflow</strong></figcaption>
+  </figure>
 </p>
+
 
 
 ## Algorithm
