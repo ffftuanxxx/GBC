@@ -21,7 +21,7 @@ Our project, GBC, takes low quality monochrome video input and generates a high 
 ## DEMO
 current demo can view at [GBC](http://elucidator.cn/gbc-demo/)  
 
-### USAGE INSTRUCTIONS  
+## USAGE INSTRUCTIONS  
 ### Environment Setup
 1. Download this repository:
 ```bash
@@ -35,9 +35,21 @@ pip install -r requirements.txt
 cd ./the file position
 ```
 3. Download models:
-Download by `Modelscope`:
-
-4.
+- Download by `Modelscope`:
+Install:
+```bash
+pip install modelscope
+```
+method1: Download by SDK:
+```bash
+from modelscope import snapshot_download
+model_dir = snapshot_download('XRailgunX/Gaussian-Based-Colorization-and-Super-Resolution-for-3D-Reconstruction')
+```
+method 2: Download by git:
+```bash
+git clone https://www.modelscope.cn/XRailgunX/Gaussian-Based-Colorization-and-Super-Resolution-for-3D-Reconstruction.git
+```
+4. Run the pipeline
 ```bash
 # Please make sure you have put the model files on the right position and set the correct parameters'
 PYTHONPATH=. python main.py
@@ -48,8 +60,7 @@ Download all weight files in of Gaussian-Splatting-Windows, DeOldify, Real-ESRGA
 You can use 480p.py to convert video to monochrome, low resolution video.
 Run main.py to start whole process.-->
 
-## Datasets & pretrained model
-Coming soon!
+## Datasets
 
 ## Links  
 Thanks for the work of,
