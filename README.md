@@ -38,10 +38,16 @@ Thanks for the work of,
 [DeOldify](https://github.com/jantic/DeOldify)
 [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
 
+## Cite
+If you find GBC useful for your work please cite:
+```
+@article{
+  author    = {Jiecheng Liao, Shi He, Yichen Yuan, Hui Zhang},
+  title     = {GBC: Gaussian-Based-Colorization-and-Super-Resolution-for-3D-Reconstruction},
+  conference   = {VRCAI},
+  year      = {2024},
+}
+```
 
-## Others    
-<!--<img src="https://github.com/HungryNeko/GBC-Gaussian-splatting-Based-Colorization/assets/160721586/abef1969-de6f-4b85-a9db-30a44ae0a872" width="100px">  -->
-
-If any problem, pls contact [HungryNeko](https://github.com/HungryNeko).
-
-<!--Equal contribution for [HungryNeko](https://github.com/HungryNeko) and [@ffftuan](https://github.com/ffftuanxxx). -->
+# Website License
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
