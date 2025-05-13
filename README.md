@@ -6,16 +6,9 @@
 ## pipeline  
 ![main figure](main_web.jpg)
 
-<!--## BOF-SR
-![image](https://github.com/user-attachments/assets/72d75a2f-0fa1-431f-a1d2-5e24b9ed7564)
-
-## COLMAP WORKFLOW
-![image](https://github.com/user-attachments/assets/ef0ff679-0f83-4d61-808f-a36aba031d08)
-
-## 3dgs WORKFLOW
-![image](https://github.com/user-attachments/assets/a1b9ef1e-7281-42f6-9b74-4bceb5ea6174)-->
 
 
+<!--
 <p align="center">
   <img src="https://github.com/user-attachments/assets/72d75a2f-0fa1-431f-a1d2-5e24b9ed7564" alt="BOF-SR" width="50%" />
   
@@ -32,7 +25,7 @@
 
   <p align="center"><strong>Figure 3. 3DGS Workflow</strong></p>
 </p>
-
+-->
 
 
 <!--## Algorithm
